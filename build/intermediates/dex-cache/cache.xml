@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/areum/Desktop/portfolio/MyAssignmentAndroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/Users/areum/Desktop/portfolio/MyAssignmentAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.0.1_e70b0b2466eacc935ccf8ce8ed69b441d097fd46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/areum/Desktop/portfolio/MyAssignmentAndroid/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/Users/areum/Desktop/portfolio/MyAssignmentAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.0.1_31721953f66bb5da427b25e3f7a94f54d0aae47e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/areum/Desktop/portfolio/MyAssignmentAndroid/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/areum/Desktop/portfolio/MyAssignmentAndroid/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_14331e37a8af495467fca82b71c13b9cf32ba87b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/areum/Desktop/portfolio/MyAssignmentAndroid/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/Users/areum/Desktop/portfolio/MyAssignmentAndroid/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_02ff9630b9db06bf39a2fa755d8b16e482866a82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/areum/Desktop/portfolio/MyAssignmentAndroid/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/Users/areum/Desktop/portfolio/MyAssignmentAndroid/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_ed5ad6c55cc2f89f19b226afdc35c2d88dfee1e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/areum/Desktop/portfolio/MyAssignmentAndroid/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="/Users/areum/Desktop/portfolio/MyAssignmentAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.1_18c0ba36eedb3157b59d1193282b867097b8e3a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/areum/Desktop/portfolio/MyAssignmentAndroid/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/Users/areum/Desktop/portfolio/MyAssignmentAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.0.1_952608178fd0ae864392d47dd67250590f336be0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/areum/Desktop/portfolio/MyAssignmentAndroid/app/build/intermediates/exploded-aar/com.android.support/design/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/areum/Desktop/portfolio/MyAssignmentAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.0.1_03a02e1b19ea97ffc18cc57f9b1c0fb48bcbddbb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/areum/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/Users/areum/Desktop/portfolio/MyAssignmentAndroid/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.1_bd3180b6fe278fc7a16a23ea08a7ba2fb1ae1f2c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/areum/Desktop/portfolio/MyAssignmentAndroid/app/build/intermediates/exploded-aar/com.android.support/transition/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/areum/Desktop/portfolio/MyAssignmentAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.0.1_c052ff99c354916cec43df912e4d778cd1b8c675.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/areum/Desktop/portfolio/MyAssignmentAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/areum/Desktop/portfolio/MyAssignmentAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.0.1_5b6aba2dbef00019d323962374ec0b3e750cba0c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/areum/Desktop/portfolio/MyAssignmentAndroid/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/Users/areum/Desktop/portfolio/MyAssignmentAndroid/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_e4e1221b0a7380d4c168ae0d8b1731f83d4003b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/areum/Desktop/portfolio/MyAssignmentAndroid/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/Users/areum/Desktop/portfolio/MyAssignmentAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.0.1_0ee440d07fc74f249c230cd316f75d314dd2d08c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/areum/Desktop/portfolio/MyAssignmentAndroid/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/Users/areum/Desktop/portfolio/MyAssignmentAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.0.1_0407428301ece1e46bad4ff4e36ef3d55e79ec7b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/areum/Desktop/portfolio/MyAssignmentAndroid/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/Users/areum/Desktop/portfolio/MyAssignmentAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.0.1_e1743ae030be46b690a90f5193fcc380bca78197.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/areum/Desktop/portfolio/MyAssignmentAndroid/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/Users/areum/Desktop/portfolio/MyAssignmentAndroid/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.1_d77d59fd8d39e4073b1c7267f4d0dafe9daccd53.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/areum/Desktop/portfolio/MyAssignmentAndroid/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/Users/areum/Desktop/portfolio/MyAssignmentAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.0.1_1a268f41024d028a0e7f39bc8697d23dcdd71d63.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/areum/Desktop/portfolio/MyAssignmentAndroid/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/Users/areum/Desktop/portfolio/MyAssignmentAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.0.1_77663e8ad2b6c4f8ad9d0f4f141b508c6ab8544b.jar" />
+    </item>
+
+</items>

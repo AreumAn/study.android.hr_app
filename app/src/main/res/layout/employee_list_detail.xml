@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:weightSum="1">
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="69dp"
+        android:layout_height="92dp"
+        android:scaleType="fitStart"
+        android:src="@drawable/employee_img"
+        android:layout_margin="5dp"
+        tools:ignore="ContentDescription" />
+
+    <LinearLayout
+        android:layout_width="142dp"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_toEndOf="@+id/imageView"
+        android:layout_toRightOf="@id/imageView"
+        android:orientation="vertical"
+        android:padding="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="10dp"
+        tools:ignore="InefficientWeight,ObsoleteLayoutParam,RtlHardcoded"
+        android:layout_weight="0.83">
+
+        <TextView
+            android:id="@+id/txtNameList"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:text="NAME"
+            tools:ignore="HardcodedText"
+            android:textStyle="normal|bold" />
+
+        <TextView
+            android:id="@+id/txtAgeList"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="18sp"
+            android:text="AGE"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:text="COUNTRY"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/txtCountryList"
+            android:textSize="18sp"
+            tools:ignore="HardcodedText" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="103dp"
+        android:layout_height="75dp"
+        tools:ignore="UselessLeaf">
+
+        <Button
+            android:text="Detail"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:id="@+id/btnShowDetail"
+            tools:ignore="HardcodedText,ObsoleteLayoutParam"
+            android:textSize="14sp"
+            android:textStyle="normal|bold" />
+
+    </LinearLayout>
+
+
+</LinearLayout>

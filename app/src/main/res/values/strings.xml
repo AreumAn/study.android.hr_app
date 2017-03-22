@@ -1,0 +1,17 @@
+
+<resources>
+    <string name="app_name">AREUM COMPANY</string>
+    <string name="action_settings">WELCOME</string>
+    <string name="enter_your_school_name">Enter your school name</string>
+    <string name="plate">Plate</string>
+    <string name="title_activity_main2">EMPLOYEE LIST</string>
+    <string-array name="country_list">
+        <item>Korea</item>
+        <item>Canada</item>
+        <item>Brazil</item>
+        <item>Mexico</item>
+        <item>Slovakia</item>
+        <item>Japan</item>
+        <item>China</item>
+    </string-array>
+</resources>
